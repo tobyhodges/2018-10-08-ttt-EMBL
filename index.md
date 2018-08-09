@@ -130,6 +130,15 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
   </em>
 </p>
 
+<p>
+  This workshop will be followed by a Train the Trainer workshop from ELIXIR, 
+  taking place at the same location on 10 & 11 October. The material covered in 
+  the two workshops is quite complementary, with very little overlap in material. 
+  Run by Dr Sarah Morgan (EMBL-EBI), the ELIXIR event focuses on best practices 
+  when designing training material and planning a workshop, tutorial, or course. 
+  To find out more about the ELIXIR workshop, please contact <a href="mailto:toby.hodges@embl.de">Toby Hodges</a>.
+</p>
+
 <p id="accessibility">
   <strong>Accessibility:</strong> We are committed to making this workshop
   accessible to everybody.
@@ -146,6 +155,11 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
   you (e.g. sign-language interpreters, lactation facilities) please
   please get in touch (using contact details below) and we will
   attempt to provide them.
+</p>
+
+<p id="registration">
+  <strong>Registration:</strong> To register for the workshop, please
+  visit the event page on EMBL Bio-IT Portal: https://bio-it.embl.de/events/carpentries-instructor-training/
 </p>
 
 <p id="contact">
