@@ -159,7 +159,7 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 
 <p id="registration">
   <strong>Registration:</strong> To register for the workshop, please
-  visit the event page on EMBL Bio-IT Portal: https://bio-it.embl.de/events/carpentries-instructor-training/
+  visit the event page on EMBL Bio-IT Portal: <a href="https://bio-it.embl.de/events/carpentries-instructor-training/">bio-it.embl.de/events/carpentries-instructor-training/</a>
 </p>
 
 <p id="contact">
